@@ -1,6 +1,6 @@
 # Tracking Custom Metrics with Puppeteer
 
-Example code snippets for puppeteer for post: https://scurker.com/primer-measuring-page-speed
+Example code snippets for puppeteer for post: https://scurker.com/primer-to-measuring-page-speed
 
 * [Navigate To Page](/examples/navigate-to-page.js)
 * [Navigate To Page with Login](/examples/navigate-to-page-with-login.js)
